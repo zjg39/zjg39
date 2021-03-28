@@ -1,0 +1,24 @@
+# Comprehensions
+
+x = [x for x in range(10)]
+print(x)
+
+# The output here would a list with values 0 through 9.  We can get a little more
+# complex, though...
+
+
+y = [[y for y in range(10)] for y in range(10)]
+print(y)
+
+# The output here would be a lot larger.  In this case, a list of values
+# 0 through 9, for every value in range 0 through 9.  In other words,
+# [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] ten times, separated by commas.
+
+
+a = [n for n in range(100) if n % 10 == 0]
+print(a)
+
+# We can get creative with some of these lists.  In this case, we made a list
+# that printed everything in the range of 0 through 100, as long as the value's
+# remainder is 0 when divided by 10.  In other words:
+# [0, 10, 20, 30, 40, 50, 60, 70, 80, 90].
