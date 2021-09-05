@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zjg39
 - 👀 I’m interested in learning Python and its uses in AI and robotics.
 - 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m looking to collaborate on nothing yet; still learning.
+- 💞️ Not ready to work with others on stuff, still learning.
 - 📫 How to reach me ... gmail is fine.  zjgoad@gmail.com is the best way to reach me; I'm not giving you my phone number.
 
 <!---
