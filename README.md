@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zjg39
-- 👀 I’m interested in learning Python and its uses in AI and robotics.
+- 👋 Hi, I’m Zac Goad.
+- 👀 I’m currently switching occupations and training to become a software developer.
 - 🌱 I’m currently learning Python and JavaScript.
-- 💞️ Not ready to work with others on stuff, still learning.
-- 📫 How to reach me ... gmail is fine.  zjgoad@gmail.com is the best way to reach me; I'm not giving you my phone number.
+- 💞️ My code isn't perfect, but I'm willing to work with others; every experience is one I can learn from!
+- 📫 How to reach me ... gmail is fine.  zjgoad@gmail.com is the best way to reach me.
 
 <!---
 zjg39/zjg39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
