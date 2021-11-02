@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zac Goad.
+- 👋 Hey everyone, I'm Zac.
 - 👀 I’m currently switching occupations and training to become a software developer.
 - 🌱 I’m currently learning Python and JavaScript.
 - 💞️ My code isn't perfect, but I'm willing to work with others; every experience is one I can learn from!
